@@ -1,0 +1,20 @@
+{
+    "Author": "Arjan Vroege - Consultant and MVP",
+    "ContentSize": 3863,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/sync-azure-remoteapp-collection-membership/master/Sync_RemoteApp_Membership.ps1",
+    "DownloadCount": 772,
+    "Id": "Sync-Azure-RemoteApp-4a1c397e",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 588,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-8-4T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This Azure Automation runbook will add and remove members from an Azure Active Directory to a Hybrid Azure RemoteApp collection. With this runbook you get an automated sync solution between an AD Group and an Azure RemoteApp collection.",
+    "Title": "Sync Azure RemoteApp Collection Membership",
+    "UpdatedDate": "2015-12-10T00:00:00",
+    "Url": "https://github.com/azureautomation/sync-azure-remoteapp-collection-membership",
+    "UserTags": "remote desktop services, Azure Automation, Azure RemoteApp"
+}
